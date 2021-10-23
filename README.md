@@ -1,2 +1,2 @@
 # xPilot Externals
-External prebuilt libraries required by xPIlot during the build process.
+External prebuilt libraries required by xPilot during the build process.
